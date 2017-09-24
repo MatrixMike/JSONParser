@@ -1,0 +1,12 @@
+cabal: Could not resolve dependencies:
+trying: JSONParser-0.1.0.2 (user goal)
+next goal: base (dependency of JSONParser-0.1.0.2)
+rejecting: base-4.10.0.0/installed-4.1... (conflict: JSONParser => base>=4.9
+&& <4.10)
+rejecting: base-4.10.0.0, base-4.9.1.0, base-4.9.0.0, base-4.8.2.0,
+base-4.8.1.0, base-4.8.0.0, base-4.7.0.2, base-4.7.0.1, base-4.7.0.0,
+base-4.6.0.1, base-4.6.0.0, base-4.5.1.0, base-4.5.0.0, base-4.4.1.0,
+base-4.4.0.0, base-4.3.1.0, base-4.3.0.0, base-4.2.0.2, base-4.2.0.1,
+base-4.2.0.0, base-4.1.0.0, base-4.0.0.0, base-3.0.3.2, base-3.0.3.1
+(constraint from non-upgradeable package requires installed instance)
+Dependency tree exhaustively searched.
