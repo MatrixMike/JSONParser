@@ -1,0 +1,2 @@
+Error parsing targets: The specified targets matched no packages.
+Perhaps you need to run 'stack init'?
